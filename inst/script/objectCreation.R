@@ -12,4 +12,4 @@ psets <- psets[order(names(psets))]
 index <- unlist(sapply(psets, function(x) x[, 1]), use.names = FALSE)
 locations <- indices2xy(index,cdf="hgu95acdf")
 
-save(int,spikeInDesign,locations,file="spikeInSubset.rda")
+save(int,spikeInDesign,locations,file="SpikeInEDA.rda")
