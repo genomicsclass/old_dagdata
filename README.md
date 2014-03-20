@@ -1,4 +1,6 @@
-# dagdata is a data package with examples for the genomics class labs
+# dagdata 
+
+a data package with examples for the Data Analysis for Genomics class labs
 
 ## SpikeInEDA
 
