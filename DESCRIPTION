@@ -1,8 +1,8 @@
-Package: dagEDA
+Package: dagdata
 Title: Data Analysis for Genomics: Exploratory Data Analysis examples
 Version: 1.0
-Date: 2014-01-18
-Author: Michael Love
+Date: 2014-03-24
+Author: Michael Love and Rafael Irizarry
 Maintainer: Michael Love <michaelisaiahlove@gmail.com>
-Description: Data Analysis for Genomics: Exploratory Data Analysis examples
+Description: Data Analysis for Genomics datasets
 License: GPL-3
