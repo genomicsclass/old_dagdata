@@ -8,5 +8,8 @@ a subset of the SpikeIn data package from Bioconductor. Object creation script i
 
 ## maPooling
 
-a data package containing pooled microrarray samples
+a dataset containing pooled microrarray samples
 
+## tissuesGeneExpression
+
+a dataset containing microarray data from various tissues
